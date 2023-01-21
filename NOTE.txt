@@ -1,0 +1,8 @@
+COMMANDS:
+npm start - local dev server
+firebase emulators:start - local firebase backend emulators
+firebase deploy --only functions - deploys functions on firebase (need blaze plan)
+firebase deploy - deploys to firebase
+
+NOTE:
+LAZY LOADING NOT IMPLEMENTED SINCE THIS ONLY A PRATICE
